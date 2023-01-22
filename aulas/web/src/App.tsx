@@ -1,5 +1,5 @@
 import { SummaryTable } from './components/SummaryTable';
-import { Header } from './components/header';
+import { Header } from './components/Header';
 import './styles/global.css';
 
 // import { Habit } from "./components/Habit"
